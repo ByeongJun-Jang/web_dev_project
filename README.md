@@ -1,1 +1,3 @@
-# web_dev_project
+# Web Develop Project
+- Member : ByeongJun-Jang
+- Project Goal : Not yet
